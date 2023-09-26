@@ -539,7 +539,7 @@ hr{
 /* contact form  */
 .contact_form{
     
-    background-color: #000;
+    background-color: #15141a;
         
     padding: 50px 30px;
         
@@ -561,17 +561,22 @@ hr{
 
     background: transparent;
 
-    border: 1px solid #f2f2f2;
+    border: 1px solid #797c82;
+    /* border: 1px solid #999; */
 
     border-radius: 3px;
 
     color: #fff;
 }
+/* .contact_form form input::placeholder{
+    color: #fff;
+    background-color: #15141a;
+} */
 .contact_form form textarea{
         
     background: transparent;
         
-    border: 1px solid #f2f2f2;
+    border: 1px solid #797c82;
         
     border-radius: 3px;
 }
@@ -579,7 +584,7 @@ hr{
 
     background: #008ed6;
 
-    padding: 8px 30px;
+    padding: 8px 45px;
 
     display: block;
 
