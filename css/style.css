@@ -568,10 +568,9 @@ hr{
 
     color: #fff;
 }
-/* .contact_form form input::placeholder{
-    color: #fff;
-    background-color: #15141a;
-} */
+.contact_form form input::placeholder{
+    color: #999;
+}
 .contact_form form textarea{
         
     background: transparent;
@@ -579,6 +578,9 @@ hr{
     border: 1px solid #797c82;
         
     border-radius: 3px;
+}
+.contact_form form textarea::placeholder{
+    color: #999;
 }
 .contact_form form input[type='submit']{
 
