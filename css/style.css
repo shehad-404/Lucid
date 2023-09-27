@@ -594,7 +594,10 @@ hr{
     border: 1px solid #008ed6;
     color: #fff;
 }
-
+.contact_form form input[type='submit']:hover{
+    background-color: #116f9f;
+    transition: .4s all ease-in-out;
+}
 
 /* footer section */
 footer{
